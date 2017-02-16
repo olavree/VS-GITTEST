@@ -3,7 +3,7 @@
  int olav2(int i) {
    int a;
    int b;
-   a = 1;
+   a = 2;
    b = 1;
    return a + b;
 }
