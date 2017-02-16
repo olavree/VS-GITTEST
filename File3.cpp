@@ -1,6 +1,6 @@
 #include "stdafx.h"
 
- int olav2(int i) {
+ int olav3(int i) {
    int a;
    int b;
    a = 1;

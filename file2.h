@@ -1,2 +1,2 @@
 #pragma once
- int olav1(int i);
+ int olav2(int i); 
